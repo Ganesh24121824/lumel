@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SalesAnalyticsApi/SalesAnalyticsApi.csproj" />
+  <Project Path="SalesAnalyticsData/SalesAnalyticsData.csproj" />
+</Solution>
